@@ -1,20 +1,16 @@
-# Tab navigation example
+# Hospital Appointment Booking App using React-Native
 
 <p>
-  <!-- iOS -->
-  <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
-  <!-- Android -->
-  <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-4630EB.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
-  <!-- Web -->
-  <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+ This is an Hospital Appointment Booking App. Purpose of this app was we don't need to go for the hospital to book appointment or no need to call hospital to book appointment, through this we can directly book the appointment by watching the reviews and ratings of the hospital and doctor as well.
 </p>
 
-## 🚀 How to use
+<p>To build this app I have used Expo to develop the React-Native application.</p>
 
-- Install with `yarn` or `npm install`.
-- Run `expo start` to try it out.
 
-## 📝 Notes
+## HomeScreen Screenshot 
+<img src="https://user-images.githubusercontent.com/52703087/134814593-5290c785-8f2c-4864-91af-a29ceced9f03.jpg" height="600px" />
 
-- This is a very basic example from the [react navigation](https://reactnavigation.org/) docs.
-- [Tab navigation documentation](https://reactnavigation.org/docs/tab-based-navigation).
+## ProfileScreen Screenshot
+<img src="https://user-images.githubusercontent.com/52703087/134816583-242b6bfc-f8b2-494c-a5be-f4d4f595d5d3.jpg" height="600px" />
+
+
