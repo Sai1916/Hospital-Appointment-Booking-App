@@ -10,6 +10,10 @@
 ## HomeScreen Screenshot 
 <img src="https://user-images.githubusercontent.com/52703087/134814593-5290c785-8f2c-4864-91af-a29ceced9f03.jpg" height="600px" />
 
+## ScheduleScreen Screenshot
+<img src="https://user-images.githubusercontent.com/52703087/134818477-b9c86caf-a9c3-49fb-aa84-e778c1525ce1.jpg" height="600px" />
+
+
 ## ProfileScreen Screenshot
 <img src="https://user-images.githubusercontent.com/52703087/134816583-242b6bfc-f8b2-494c-a5be-f4d4f595d5d3.jpg" height="600px" />
 
