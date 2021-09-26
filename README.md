@@ -5,6 +5,8 @@
 </p>
 
 <p>To build this app I have used Expo to develop the React-Native application.</p>
+
+
 ## HomeScreen Screenshot 
 <img src="https://user-images.githubusercontent.com/52703087/134814593-5290c785-8f2c-4864-91af-a29ceced9f03.jpg" height="600px" />
 
