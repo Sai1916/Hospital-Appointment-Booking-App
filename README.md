@@ -5,4 +5,5 @@
 </p>
 
 <p>To build this app I have used React-Native to develop the application.</p>
-![Screenshot_20210926_210147](https://user-images.githubusercontent.com/52703087/134814542-9dd597b1-4a88-4459-b42d-a46ca4d8073a.jpg)
+![Screenshot_20210926_210147](https://user-images.githubusercontent.com/52703087/134814593-5290c785-8f2c-4864-91af-a29ceced9f03.jpg)
+
